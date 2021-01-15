@@ -17,3 +17,11 @@ makedocs(
         "Lie theory" => "lie-theory.md"
     ]
 )
+
+deploydocs(
+   repo   = "github.com/ulthiel/JuLie.jl.git",
+   target = "build",
+   deps = nothing,
+   make   = nothing,
+)
+
