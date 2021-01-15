@@ -1,9 +1,9 @@
 # JuLie.jl
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://ulthiel.github.io/JuLie.jl/stable)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://ulthiel.github.io/JuLie.jl/dev)
-[![Build Status](https://github.com/ulthiel/JuLie.jl/workflows/Run%20tests/badge.svg)](https://github.com/ulthiel/JuLie.jl/actions?query=workflow%3A%22Run+tests%22)
-[![codecov.io](https://codecov.io/github/ulthiel/JuLie.jl/coverage.svg?branch=master)](https://codecov.io/gh/ulthiel/JuLie.jl)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://fingolfin.github.io/JuLie.jl/stable)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://fingolfin.github.io/JuLie.jl/dev)
+[![Build Status](https://github.com/fingolfin/JuLie.jl/workflows/Run%20tests/badge.svg)](https://github.com/fingolfin/JuLie.jl/actions?query=workflow%3A%22Run+tests%22)
+[![codecov.io](https://codecov.io/github/fingolfin/JuLie.jl/coverage.svg?branch=master)](https://codecov.io/gh/fingolfin/JuLie.jl)
 
 ## About
 

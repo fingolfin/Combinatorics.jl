@@ -19,7 +19,7 @@ makedocs(
 )
 
 deploydocs(
-   repo   = "github.com/ulthiel/JuLie.jl.git",
+   repo   = "github.com/fingolfin/JuLie.jl.git",
    target = "build",
    deps = nothing,
    make   = nothing,
