@@ -28,7 +28,7 @@ julia> ?partitions
 
 ## Motivation
 
-Especially for combinatorics there's a lot already in other computer algebra systems. So, why another package? First, I hope this package will eventually form one pillar of the [OSCAR](https://oscar.computeralgebra.de) project. What convinced me of Julia as programming language is its straightforward high-level syntax (like Python) paired with incredible performance (unlike Pyhton). Have a look at the following examples creating the list (not an iterator) of all [partitions](https://en.wikipedia.org/wiki/Partition_(number_theory)) of the integer 90 (there are ~56.6 million) in different computer algebra systems.
+Especially for combinatorics there's a lot already in other computer algebra systems. So, why another package? First, I hope this package will eventually form one pillar of the [OSCAR](https://oscar.computeralgebra.de) project. What convinced me of Julia as programming language is its straightforward high-level syntax (like Python) paired with incredible performance (unlike Python). Have a look at the following examples creating the list (not an iterator) of all [partitions](https://en.wikipedia.org/wiki/Partition_(number_theory)) of the integer 90 (there are ~56.6 million) in different computer algebra systems.
 
 In **[Sage](https://www.sagemath.org)** (v9.1):
 
